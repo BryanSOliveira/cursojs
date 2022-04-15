@@ -2,10 +2,10 @@
 
 ## 📁 Seções 
 
-01 - JavaScript Básico
-02 - JavaScript - Lógica de programação
-03 - JavaScript Funções (Avançado)
-04 - JavaScritp Arrays (Avançado)
-05 - JavaScript Objetos e prototypes (Avançado)
-06 - JavaScript Classes - Programação Orientada a Objetos - POO
-07 - JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await
+1. JavaScript Básico
+2. JavaScript - Lógica de programação
+3. JavaScript Funções (Avançado)
+4. JavaScritp Arrays (Avançado)
+5. JavaScript Objetos e prototypes (Avançado)
+6. JavaScript Classes - Programação Orientada a Objetos - POO
+7. JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await
